@@ -82,7 +82,10 @@
 ## Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=tokyonight&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6" width="100%" />
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=transparent&background=00000000&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950"
+  width="100%" 
+/>
 </div>
 
 ---

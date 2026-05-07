@@ -12,17 +12,22 @@
 
 ---
 
-## Technical Focus
+## About Me
 
-<div align="center">
-
-| Currently Mastering | Career Objectives |
-| :--- | :--- |
-| Scalable Distributed Systems | Software Development Engineer (SDE) |
-| Deep Learning & Neural Architectures | High-Impact Product Engineering |
-| Data Structures & Competitive Programming | Global Technical Contributions |
-
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      I am a Software Development Engineer focused on building scalable full-stack applications and exploring the depths of machine learning. My expertise lies in bridging the gap between complex backend architectures and intuitive frontend experiences.
+      <br/><br/>
+      &bull; <b>Currently:</b> Mastering Distributed Systems & Deep Learning Architectures<br/>
+      &bull; <b>Focus:</b> High-Impact Product Engineering & Real-Time Sync<br/>
+      &bull; <b>Logic:</b> Active in Competitive Programming (Codeforces 1515)
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,18 +45,18 @@
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>Logator</h3>
+        <h3>Logator 🔗 <a href="https://logator.io">logator.io</a></h3>
         <p><i>Enterprise Operations Platform</i></p>
-        <p>Architected a centralized system for visitor management and employee attendance featuring biometric face recognition and real-time syncing.</p>
-        <code>React</code> &bull; <code>WebSockets</code> &bull; <code>FaceID</code> &bull; <code>Razorpay</code>
+        <p>Architected a centralized system for visitor management and employee attendance featuring biometric face recognition.</p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,supabase&theme=dark" height="25" />
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>BigHunters</h3>
+        <h3>BigHunters 🔗 <a href="https://food-ordering-gray-six.vercel.app">Live Demo</a></h3>
         <p><i>Food Delivery Infrastructure</i></p>
-        <p>Engineered a full-cycle ordering platform with real-time order tracking and a comprehensive admin dashboard for business analytics.</p>
-        <code>MongoDB</code> &bull; <code>Express</code> &bull; <code>React</code> &bull; <code>Node.js</code>
+        <p>Engineered a full-cycle ordering platform with real-time order tracking and a comprehensive admin dashboard.</p>
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="25" />
       </div>
     </td>
   </tr>

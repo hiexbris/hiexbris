@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/aditya-nigam-855445289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://codeforces.com/profile/hiexbris"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/MckyonWee"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
     <a href="mailto:hellojiaditya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
 </div>

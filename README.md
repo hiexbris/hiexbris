@@ -83,7 +83,7 @@
 
 <div align="center">
   <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=transparent&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950"
+  src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=github-dark-blue&hide_border=true&border_radius=8"
   width="100%" 
 />
 </div>

@@ -1,22 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Aditya%20Nigam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&text=Aditya%20Nigam&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Full Stack Developer • Competitive Programmer • ML/DL Enthusiast</h2>
+<h3 align="center">Full Stack Developer • Competitive Programmer • ML/DL</h3>
 
 <p align="center">
-  Building scalable systems, solving algorithmic problems, and shipping production-ready applications.
+Building scalable systems and solving real-world engineering problems.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-nigam-855445289">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
-  <a href="mailto:yourmail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/MckyonWee">
     <img src="https://img.shields.io/badge/Codeforces-1515-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
@@ -24,11 +20,9 @@
 
 ---
 
-## About Me
+## About
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 
 ```yaml
 name: Aditya Nigam
@@ -37,99 +31,82 @@ role: Full Stack Developer
 
 focus:
   - Full Stack Development
-  - Data Structures & Algorithms
   - Competitive Programming
+  - Machine Learning
 
 goal:
-  - Software Development Engineer (SDE)
+  - Software Development Engineer
 
 interests:
-  - Scalable Backend Systems
+  - Backend Systems
   - Real-time Architectures
-  - Machine Learning
   - Product Engineering
 ```
 
-</td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,tailwind,html,css,nodejs,express,firebase,mongodb,postgres,supabase,docker,git,postman" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,docker,git,postman" />
 </p>
 
 ---
 
-## Featured Projects
+## Projects
 
-### Logator — Enterprise Operations Platform
-**Client Project • Paid (3 months)**
+### Logator
+Enterprise operations platform built for a real client.
 
-- Visitor management, employee attendance & hotel operations platform
-- Face Recognition workflows
-- Real-time updates with WebSockets
-- Role-based Authentication
-- Payment integration with Razorpay
-- Query optimization + caching
+- Visitor Management
+- Employee Attendance
+- Hotel Management
+- Face Recognition
+- WebSockets
+- Role Based Access
+- Razorpay Integration
 
-**Stack:** React • Node.js • Supabase • WebSockets • Razorpay  
-
+**Stack:** React • Node.js • Supabase • WebSockets  
 **Live:** https://logator.io
 
 ---
 
-### BigHunters — Food Ordering Platform
+### BigHunters
+Food ordering platform with admin workflows.
 
-- Full-stack food ordering system
-- Admin dashboard
-- Order tracking
-- Search & filtering
-- Role-based access control
+- Order Tracking
+- Admin Dashboard
+- Search & Filtering
+- Role Based Access
 
 **Stack:** MERN Stack  
-
 **Live:** https://food-ordering-gray-six.vercel.app
 
 ---
 
 ### Semantic Search Engine
 
-- Vector embedding based semantic retrieval
-- Wikipedia knowledge search
-- Context retrieval for LLMs
-- Retrieval Augmented Generation pipeline
+- Vector Embeddings
+- Wikipedia Semantic Search
+- LLM Context Retrieval
+- Retrieval Augmented Generation
 
-**Stack:** Python • Deep Learning • Embeddings
+**Stack:** Python • Deep Learning
 
 ---
 
 ## Competitive Programming
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiexbris&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  Codeforces Rating: <b>1515</b>
+  <a href="https://codeforces.com/profile/MckyonWee">
+    <img src="https://img.shields.io/badge/Codeforces-1515-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiexbris&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=hiexbris&style=flat-square" />
 </p>

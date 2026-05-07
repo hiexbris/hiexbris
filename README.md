@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&text=Aditya%20Nigam&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=140&color=gradient&text=Aditya%20Nigam&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Full Stack Developer • Competitive Programmer • ML/DL</h3>
@@ -13,37 +13,48 @@ Building scalable systems and solving real-world engineering problems.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:hellojiaditya@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-## About
+## About Me
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+</p>
 
-```yaml
-name: Aditya Nigam
-username: hiexbris
-role: Full Stack Developer
+<table align="center">
+<tr>
+<td align="center" width="250">
 
-focus:
-  - Full Stack Development
-  - Competitive Programming
-  - Machine Learning
+### Focus
+Full Stack Development  
+DSA & Competitive Programming  
+Machine Learning  
 
-goal:
-  - Software Development Engineer
+</td>
 
-interests:
-  - Backend Systems
-  - Real-time Architectures
-  - Product Engineering
-```
+<td align="center" width="250">
 
-<br clear="right"/>
+### Goal
+Software Development Engineer  
+Building scalable products  
+Backend-heavy systems  
+
+</td>
+
+<td align="center" width="250">
+
+### Competitive Programming
+Codeforces Rating: **1515**  
+Handle: **MckyonWee**  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,57 +66,71 @@ interests:
 
 ---
 
-## Projects
+## Featured Projects
 
-### Logator
-Enterprise operations platform built for a real client.
+<table>
+<tr>
+<td width="33%" valign="top">
 
+### 🚀 Logator
+
+Enterprise platform for:
 - Visitor Management
 - Employee Attendance
-- Hotel Management
+- Hotel Operations
 - Face Recognition
-- WebSockets
 - Role Based Access
-- Razorpay Integration
+- Payments
 
-**Stack:** React • Node.js • Supabase • WebSockets  
-**Live:** https://logator.io
+**Stack**  
+React • Node.js  
+Supabase • WebSockets  
 
----
+🌐 https://logator.io
 
-### BigHunters
-Food ordering platform with admin workflows.
+</td>
 
+<td width="33%" valign="top">
+
+### 🍔 BigHunters
+
+Food ordering platform:
 - Order Tracking
 - Admin Dashboard
 - Search & Filtering
 - Role Based Access
 
-**Stack:** MERN Stack  
-**Live:** https://food-ordering-gray-six.vercel.app
+**Stack**  
+MERN Stack  
 
----
+🌐 https://food-ordering-gray-six.vercel.app
 
-### Semantic Search Engine
+</td>
 
+<td width="33%" valign="top">
+
+### 🔎 Semantic Search
+
+Semantic retrieval engine:
 - Vector Embeddings
-- Wikipedia Semantic Search
+- Wikipedia Search
 - LLM Context Retrieval
-- Retrieval Augmented Generation
+- RAG Pipeline
 
-**Stack:** Python • Deep Learning
+**Stack**  
+Python • Deep Learning  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Competitive Programming
+## Connect
 
 <p align="center">
-  <a href="https://codeforces.com/profile/MckyonWee">
-    <img src="https://img.shields.io/badge/Codeforces-1515-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+📧 hellojiaditya@gmail.com  
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hiexbris&style=flat-square" />

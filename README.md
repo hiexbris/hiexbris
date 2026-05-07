@@ -73,6 +73,5 @@
 ---
 
 <div align="center">
-  <br/>
   <sub>Clean Code. Smart Solutions. Consistent Progress.</sub>
 </div>

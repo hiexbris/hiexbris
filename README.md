@@ -35,9 +35,11 @@ and explore machine learning to engineer impactful solutions.
 
 ## `{ about_me }`
 
+<div align="center">
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="50%" valign="middle">
 
 ```yaml
 name       : Aditya Nigam
@@ -59,30 +61,23 @@ interests  :
 ```
 
 </td>
-<td width="45%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
+<td align="center" width="50%" valign="middle">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
 
+</div>
 ---
 
 ## `{ stack }`
 
-**Languages** &nbsp;
-![JS](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark)
+<div align="center">
 
-**Frontend** &nbsp;
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,html,css,nodejs,express,mongodb,postgres,supabase,docker,git,aws,vercel&theme=dark" />
 
-**Backend & Databases** &nbsp;
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase,redis&theme=dark)
-
-**Tools & Infra** &nbsp;
-![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=dark)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=010101)
+</div>
 
 ---
 
@@ -156,23 +151,15 @@ interests  :
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" />
-
-</div>
-
 ---
 
 ## `{ let's connect }`
 
 <div align="center">
 
-<br/>
+**Clean Code • Smart Solutions • Consistent Progress**
 
-**Clean Code.&nbsp;&nbsp;Smart Solutions.&nbsp;&nbsp;Consistent Progress.**
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Nigam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-nigam-855445289)
 &nbsp;
@@ -180,12 +167,10 @@ interests  :
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-hiexbris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiexbris)
 
-<br/>
+<br/><br/>
 
 ![visitors](https://komarev.com/ghpvc/?username=hiexbris&color=1f6feb&style=flat-square&label=profile+views)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:1f6feb,100:0d1117&section=footer" />
 
 </div>

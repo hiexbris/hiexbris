@@ -67,11 +67,18 @@
 ## Performance Metrics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiexbris&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=tokyonight&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6" width="100%" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiexbris&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" />
+  <br/>
   <sub>Clean Code. Smart Solutions. Consistent Progress.</sub>
 </div>

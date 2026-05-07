@@ -8,56 +8,36 @@
 
 <div align="center">
 
-> I build scalable full stack applications, solve algorithmic problems,  
-> and explore machine learning to engineer impactful solutions.
+```
+I build scalable full stack applications, crack complex DSA problems,
+and explore machine learning to engineer impactful solutions.
+```
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<a href="https://linkedin.com/in/aditya-nigam-855445289">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/MckyonWee">
-<img src="https://img.shields.io/badge/Codeforces-1515-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:hellojiaditya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://linkedin.com/in/aditya-nigam-855445289">
+    <img src="https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/hiexbris">
+    <img src="https://img.shields.io/badge/Codeforces%201515-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hellojiaditya@gmail.com">
+    <img src="https://img.shields.io/badge/─────%20Gmail%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 ## `{ about_me }`
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-&nbsp;
-<img src="https://img.shields.io/badge/DSA-Competitive%20Programming-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Goal-SDE-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Interests-ML%20%2F%20DL-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
-
-</div>
-
-<br/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```yaml
 name       : Aditya Nigam
@@ -78,66 +58,91 @@ interests  :
   → Product Engineering
 ```
 
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## `{ stack }`
 
-<div align="center">
+**Languages** &nbsp;
+![JS](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark)
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,html,css,nodejs,express,mongodb,postgres,supabase,docker,git,aws,vercel&theme=dark" />
+**Frontend** &nbsp;
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)
 
-</div>
+**Backend & Databases** &nbsp;
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase,redis&theme=dark)
+
+**Tools & Infra** &nbsp;
+![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=dark)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=010101)
 
 ---
 
 ## `{ projects }`
 
-### 👥 Logator `[ Client Project ]`
+<table>
+<tr>
 
-Enterprise operations platform built for real businesses.
+<td width="50%" valign="top">
 
-- Visitor management with Face Recognition
+### 👥 Logator &nbsp; `[ Client Project ]`
+
+> Enterprise operations platform built for real businesses.
+
+**What it does:**
+- Visitor management with face recognition
 - Employee attendance tracking
 - Hotel operations dashboard
 - Role-based access control
-- Real-time sync with WebSockets
+- Real-time sync via WebSockets
 - Payment integration via Razorpay
 
-**Stack**  
-React • Node.js • Supabase • WebSockets • Razorpay
+**Stack**
 
-🔗 **https://logator.io**
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1a2e1a?style=flat-square&logo=nodedotjs&logoColor=3fb950)
+![Supabase](https://img.shields.io/badge/Supabase-0d2119?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![WebSockets](https://img.shields.io/badge/WebSockets-1a1a2e?style=flat-square&logo=socket.io&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0d1b2e?style=flat-square&logo=razorpay&logoColor=3395FF)
 
----
+🔗 **[logator.io](https://logator.io)**
 
-### 🍔 BigHunters `[ Full Stack ]`
+</td>
 
-End-to-end food ordering platform.
+<td width="50%" valign="top">
 
-- Order lifecycle management
+### 🍔 BigHunters &nbsp; `[ Full Stack ]`
+
+> End-to-end food ordering platform — from browsing to delivery.
+
+**What it does:**
+- Full order lifecycle management
 - Real-time order tracking
-- Admin dashboard
-- Search & filtering
-- Role-based access
+- Admin dashboard & analytics
+- Role-based access (user / admin)
+- Search, filter & menu management
 
-**Stack**  
-MongoDB • Express • React • Node.js
+**Stack**
 
-🔗 **https://food-ordering-gray-six.vercel.app**
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1f14?style=flat-square&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1a2e1a?style=flat-square&logo=nodedotjs&logoColor=3fb950)
 
----
+🔗 **[Live Demo](https://food-ordering-gray-six.vercel.app)**
 
-### 🔎 Semantic Search Engine
+</td>
 
-Semantic retrieval engine powered by embeddings + LLM pipeline.
-
-- Vector Embeddings
-- Wikipedia Semantic Search
-- LLM Context Retrieval
-- Retrieval Augmented Generation
-
-**Stack**  
-Python • Deep Learning
+</tr>
+</table>
 
 ---
 
@@ -146,43 +151,41 @@ Python • Deep Learning
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb&count_private=true" />
-
 &nbsp;&nbsp;
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiexbris&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" />
 
 </div>
 
 ---
 
-## `{ connect }`
+## `{ let's connect }`
 
 <div align="center">
-
-### Let's build something impactful.
-
-<a href="mailto:hellojiaditya@gmail.com">
-<img src="https://img.shields.io/badge/Email-hellojiaditya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/aditya-nigam-855445289">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Nigam-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/hiexbris">
-<img src="https://img.shields.io/badge/GitHub-hiexbris-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hiexbris&color=1f6feb&style=flat-square&label=profile+views"/>
-
-</div>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1f6feb,100:0d1117&section=footer"/>
+**Clean Code.&nbsp;&nbsp;Smart Solutions.&nbsp;&nbsp;Consistent Progress.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Nigam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-nigam-855445289)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-hellojiaditya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellojiaditya@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-hiexbris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiexbris)
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=hiexbris&color=1f6feb&style=flat-square&label=profile+views)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer" />
+
 </div>

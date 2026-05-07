@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&secondaryColor=1f6feb&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&secondaryColor=1f6feb&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
 
   <h3>Full Stack Developer | Competitive Programmer | Machine Learning</h3>
 

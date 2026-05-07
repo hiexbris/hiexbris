@@ -24,7 +24,7 @@
       Experienced in building end-to-end web products with real-time features, authentication systems, payment integrations, and database-driven architectures.
       <br/><br/>
       Alongside development, I actively practice Data Structures & Algorithms, Competitive Programming, and explore Machine Learning concepts.
-      <br/><br/>
+      <br/>
     </td>
     <td width="40%" valign="middle" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />

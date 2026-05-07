@@ -46,16 +46,28 @@
     <td width="50%" valign="top">
       <div align="left">
         <h3>Logator 🔗 <a href="https://logator.io">logator.io</a></h3>
-        <p><i>Enterprise Operations Platform</i></p>
-        <p>Architected a centralized system for visitor management and employee attendance featuring biometric face recognition.</p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,supabase&theme=dark" height="25" />
+        <p><b>B2B SaaS | Enterprise Operations Platform</b></p>
+        <p>A comprehensive operations suite built for real-world businesses to streamline onsite management.</p>
+        <ul>
+          <li><b>Face Recognition:</b> Biometric visitor management and automated employee attendance.</li>
+          <li><b>Operations:</b> Centralized hotel operations dashboard with role-based access control (RBAC).</li>
+          <li><b>Real-Time:</b> Low-latency data synchronization using WebSockets.</li>
+          <li><b>Fintech:</b> Seamless payment processing via Razorpay integration.</li>
+        </ul>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,supabase,aws&theme=dark" height="25" />
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
         <h3>BigHunters 🔗 <a href="https://food-ordering-gray-six.vercel.app">Live Demo</a></h3>
-        <p><i>Food Delivery Infrastructure</i></p>
-        <p>Engineered a full-cycle ordering platform with real-time order tracking and a comprehensive admin dashboard.</p>
+        <p><b>Full Stack | Food Delivery Infrastructure</b></p>
+        <p>An end-to-end food ordering ecosystem managing the entire lifecycle from browsing to delivery.</p>
+        <ul>
+          <li><b>Order Lifecycle:</b> Managed states from cart to checkout with real-time tracking.</li>
+          <li><b>Management:</b> Integrated search, filter, and dynamic menu management for vendors.</li>
+          <li><b>Admin Suite:</b> Data-driven dashboard providing deep business analytics and user control.</li>
+          <li><b>Security:</b> Secure authentication and multi-role access (User/Admin).</li>
+        </ul>
         <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" height="25" />
       </div>
     </td>

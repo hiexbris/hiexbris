@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&secondaryColor=1f6feb&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0d1117&text=Aditya%20Nigam&fontSize=60&fontColor=ffffff&fontAlignY=50" width="100%" />
 
-  <h3>Full Stack Developer | Competitive Programmer | Machine Learning</h3>
+  <p align="center" style="margin-top: -10px;">
+    <b>Full Stack Developer | Competitive Programmer | Machine Learning</b>
+  </p>
 
   <p align="center">
     <a href="https://linkedin.com/in/aditya-nigam-855445289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>

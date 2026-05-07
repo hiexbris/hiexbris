@@ -22,7 +22,7 @@ and explore machine learning to engineer impactful solutions.
     <img src="https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com">
+  <a href="https://codeforces.com/profile/hiexbris">
     <img src="https://img.shields.io/badge/Codeforces%201515-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   &nbsp;
@@ -37,11 +37,11 @@ and explore machine learning to engineer impactful solutions.
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 name       : Aditya Nigam
-username   : hiasebrix
+username   : hiexbris
 location   : India 🇮🇳
 
 currently  :
@@ -59,18 +59,9 @@ interests  :
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
-<br/>
-
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)
-![DSA](https://img.shields.io/badge/DSA-Competitive%20Prog-0d1117?style=flat-square&labelColor=238636&color=0d1117)
-![ML](https://img.shields.io/badge/Interest-ML%20%2F%20DL-0d1117?style=flat-square&labelColor=8957e5&color=0d1117)
-![Exp](https://img.shields.io/badge/Experience-6%2B%20Months%20Prod-0d1117?style=flat-square&labelColor=da3633&color=0d1117)
-
-<br/>
-
-> *"Consistent Learner. Problem Solver. Builder."*
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
 </td>
 </tr>
@@ -80,37 +71,18 @@ interests  :
 
 ## `{ stack }`
 
-**Languages**
+**Languages** &nbsp;
+![JS](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Frontend** &nbsp;
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)
 
-**Frontend**
+**Backend & Databases** &nbsp;
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase,redis&theme=dark)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=0d1117)
-![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=0d1117)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+**Tools & Infra** &nbsp;
+![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=dark)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=010101)
 
 ---
 
@@ -170,44 +142,6 @@ interests  :
 </td>
 
 </tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔎 Semantic Search &nbsp; `[ ML / AI ]`
-
-> Search engine that *understands* your query, not just matches keywords.
-
-**What it does:**
-- Vector embeddings over Wikipedia corpus
-- Semantic similarity retrieval
-- LLM-powered context generation
-- Full RAG pipeline (Retrieve → Augment → Generate)
-
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-1a1f3d?style=flat-square&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-2d1000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1500?style=flat-square&logo=huggingface&logoColor=FFD21E)
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<br/><br/>
-
-```
-More projects dropping soon.
-Currently building in stealth. 👀
-```
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/See%20All%20Repos-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiasebrix)
-
-</td>
-
-</tr>
 </table>
 
 ---
@@ -216,47 +150,41 @@ Currently building in stealth. 👀
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hiasebrix&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiasebrix&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiexbris&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hiasebrix&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" />
 
 </div>
 
 ---
 
+## `{ let's connect }`
+
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│      " Clean Code.   Smart Solutions.   Consistent Progress. "      │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-📍 India &nbsp;&nbsp;|&nbsp;&nbsp; 📬 hellojiaditya@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Let's build something amazing together
 
 <br/>
 
-<a href="https://linkedin.com/in/aditya-nigam-855445289">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:hellojiaditya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/hiasebrix">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Clean Code.&nbsp;&nbsp;Smart Solutions.&nbsp;&nbsp;Consistent Progress.**
 
-<br/><br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Nigam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-nigam-855445289)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-hellojiaditya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellojiaditya@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-hiexbris-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiexbris)
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=hiexbris&color=1f6feb&style=flat-square&label=profile+views)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer" />
 

@@ -1,40 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=auto&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0d1117&secondaryColor=1f6feb&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  <h3>🚀 Full Stack Developer | Competitive Programmer | ML Enthusiast</h3>
+  <h3>✨ Engineering Scalable Systems & Intelligent Solutions</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/aditya-nigam-855445289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/aditya-nigam-855445289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/hiexbris"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-    <a href="mailto:hellojiaditya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:hellojiaditya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-## ⚡ Quick Specs
+## ⚡ Technical Snapshot
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ Currently Mastering</h4>
-      <ul>
-        <li><b>Architecture:</b> Scalable Distributed Systems</li>
-        <li><b>Engines:</b> Deep Learning & Neural Networks</li>
-        <li><b>Logic:</b> High-level DSA & Competitive Programming</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Career Goal</h4>
-      <ul>
-        <li><b>Role:</b> Software Development Engineer (SDE)</li>
-        <li><b>Focus:</b> Engineering impactful, real-world products</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 💻 Tech Ecosystem
+| 🛠️ Currently Mastering | 🎯 Career Goal |
+| :--- | :--- |
+| **Architecture:** Scalable Distributed Systems | **Role:** Software Development Engineer (SDE) |
+| **Engines:** Deep Learning & Neural Networks | **Focus:** High-Impact Product Engineering |
+| **Logic:** DSA & Competitive Programming | **Location:** Open to Global Opportunities |
+
+</div>
+
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,next,tailwind,nodejs,express,mongodb,postgres,supabase,redis,docker,aws,git&perline=8" />
@@ -42,37 +32,48 @@
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Projects
 
-### 👥 Logator | [Visit Site](https://logator.io)
-*Enterprise Operations Platform*
-> **Tech:** React • Node.js • Supabase • WebSockets • Razorpay
-- Engineered **Face Recognition** for visitor management and attendance.
-- Implemented real-time dashboard updates via **WebSockets**.
-- Integrated secure payment workflows with **Razorpay**.
-
-### 🍔 BigHunters | [Live Demo](https://food-ordering-gray-six.vercel.app)
-*End-to-End Food Delivery Platform*
-> **Tech:** MongoDB • Express • React • Node.js
-- Built a complete order lifecycle system with **real-time tracking**.
-- Developed a comprehensive **Admin Dashboard** for menu and analytics management.
+<table border="0">
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiexbris&repo=Logator&theme=tokyonight&border_radius=10" alt="Project 1" />
+        <br/>
+        <b>👥 Logator</b><br/>
+        <i>Enterprise Ops Platform</i><br/>
+        <code>React</code> • <code>WebSockets</code> • <code>FaceID</code>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiexbris&repo=BigHunters&theme=tokyonight&border_radius=10" alt="Project 2" />
+        <br/>
+        <b>🍔 BigHunters</b><br/>
+        <i>Food Delivery Engine</i><br/>
+        <code>MERN Stack</code> • <code>Redux</code> • <code>Socket.io</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=transparent&hide_border=true&title_color=34d399&icon_color=34d399&text_color=94a3b8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiexbris&layout=compact&theme=transparent&hide_border=true&title_color=34d399&text_color=94a3b8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiexbris&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=transparent&hide_border=true&base=0d1117&stroke=34d399&ring=34d399&fire=ef4444&currStreakLabel=34d399" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiexbris&theme=tokyonight&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Clean Code. Smart Solutions. Consistent Progress."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=hiexbris&color=34d399&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=hiexbris&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" />
+  <br/>
+  <b>Clean Code. Smart Solutions. Consistent Progress.</b>
 </div>

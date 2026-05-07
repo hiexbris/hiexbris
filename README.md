@@ -19,14 +19,18 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      I am a Software Development Engineer focused on building scalable full-stack applications and exploring the depths of machine learning. My expertise lies in bridging the gap between complex backend architectures and intuitive frontend experiences.
+      Software Developer with a strong interest in full-stack development, backend engineering, and scalable application design.
       <br/><br/>
-      &bull; <b>Currently:</b> Mastering Distributed Systems & Deep Learning Architectures<br/>
-      &bull; <b>Focus:</b> High-Impact Product Engineering & Real-Time Sync<br/>
-      &bull; <b>Logic:</b> Active in Competitive Programming (Codeforces 1515)
+      Experienced in building end-to-end web products with real-time features, authentication systems, payment integrations, and database-driven architectures.
+      <br/><br/>
+      Alongside development, I actively practice Data Structures & Algorithms, Competitive Programming, and explore Machine Learning concepts.
+      <br/><br/>
+      &bull; <b>Currently:</b> Full Stack Development, DSA & System Design<br/>
+      &bull; <b>Focus:</b> Scalable Applications & Backend Systems<br/>
+      &bull; <b>Competitive Programming:</b> Codeforces 1515
     </td>
     <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
     </td>
   </tr>
 </table>

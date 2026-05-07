@@ -1,30 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0d1117&secondaryColor=1f6feb&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&secondaryColor=1f6feb&text=Aditya%20Nigam&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  <h3>✨ Engineering Scalable Systems & Intelligent Solutions</h3>
+  <h3>Full Stack Developer | Competitive Programmer | Machine Learning</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/aditya-nigam-855445289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://codeforces.com/profile/hiexbris"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-    <a href="mailto:hellojiaditya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/aditya-nigam-855445289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/hiexbris"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+    <a href="mailto:hellojiaditya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-## ⚡ Technical Snapshot
+## Technical Focus
 
 <div align="center">
 
-| 🛠️ Currently Mastering | 🎯 Career Goal |
+| Currently Mastering | Career Objectives |
 | :--- | :--- |
-| **Architecture:** Scalable Distributed Systems | **Role:** Software Development Engineer (SDE) |
-| **Engines:** Deep Learning & Neural Networks | **Focus:** High-Impact Product Engineering |
-| **Logic:** DSA & Competitive Programming | **Location:** Open to Global Opportunities |
+| Scalable Distributed Systems | Software Development Engineer (SDE) |
+| Deep Learning & Neural Architectures | High-Impact Product Engineering |
+| Data Structures & Competitive Programming | Global Technical Contributions |
 
 </div>
 
-## 💻 Tech Stack
+---
+
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,next,tailwind,nodejs,express,mongodb,postgres,supabase,redis,docker,aws,git&perline=8" />
@@ -32,26 +34,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table border="0">
+<table width="100%" border="0">
   <tr>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiexbris&repo=Logator&theme=tokyonight&border_radius=10" alt="Project 1" />
-        <br/>
-        <b>👥 Logator</b><br/>
-        <i>Enterprise Ops Platform</i><br/>
-        <code>React</code> • <code>WebSockets</code> • <code>FaceID</code>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>Logator</h3>
+        <p><i>Enterprise Operations Platform</i></p>
+        <p>Architected a centralized system for visitor management and employee attendance featuring biometric face recognition and real-time syncing.</p>
+        <code>React</code> &bull; <code>WebSockets</code> &bull; <code>FaceID</code> &bull; <code>Razorpay</code>
       </div>
     </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiexbris&repo=BigHunters&theme=tokyonight&border_radius=10" alt="Project 2" />
-        <br/>
-        <b>🍔 BigHunters</b><br/>
-        <i>Food Delivery Engine</i><br/>
-        <code>MERN Stack</code> • <code>Redux</code> • <code>Socket.io</code>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>BigHunters</h3>
+        <p><i>Food Delivery Infrastructure</i></p>
+        <p>Engineered a full-cycle ordering platform with real-time order tracking and a comprehensive admin dashboard for business analytics.</p>
+        <code>MongoDB</code> &bull; <code>Express</code> &bull; <code>React</code> &bull; <code>Node.js</code>
       </div>
     </td>
   </tr>
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiexbris&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" />
@@ -75,5 +75,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hiexbris&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" />
   <br/>
-  <b>Clean Code. Smart Solutions. Consistent Progress.</b>
+  <sub>Clean Code. Smart Solutions. Consistent Progress.</sub>
 </div>

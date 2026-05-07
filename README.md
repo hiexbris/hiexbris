@@ -25,9 +25,6 @@
       <br/><br/>
       Alongside development, I actively practice Data Structures & Algorithms, Competitive Programming, and explore Machine Learning concepts.
       <br/><br/>
-      &bull; <b>Currently:</b> Full Stack Development, DSA & System Design<br/>
-      &bull; <b>Focus:</b> Scalable Applications & Backend Systems<br/>
-      &bull; <b>Competitive Programming:</b> Codeforces 1515
     </td>
     <td width="40%" valign="middle" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
